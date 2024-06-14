@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.day {
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+  font-weight: 700;
+}
+
+.date {
+  text-align: center;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  padding: 0.25rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.presentDay {
+  background-color: #088b89;
+  border-radius: 9999px;
+  color: rgb(255 255 255);
+  width: 1.75rem;
+}
+
+.calendarIcon{
+  margin-right: 0.5rem;
+  width: 3rem;
+  height: 3rem;
+}
+
+.todayButton{
+  background-color: #088b89 !important;
+}

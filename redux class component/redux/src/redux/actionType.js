@@ -1,0 +1,5 @@
+export const INCREMENT_ACTION="incrementer"
+export const DECREMENT_ACTION="decrementer"
+export const API_TEST="apiTest"
+export const LOADING="loading"
+export const ERROR="error"
